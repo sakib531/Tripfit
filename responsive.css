@@ -200,7 +200,7 @@
 
         .home .content h3 {
             font-size: 7rem;
-            color: goldenrod;
+            color: red;
         }
 
         .home .content span {
@@ -220,7 +220,7 @@
         .icons-container .icons {
             background: white;
             border-radius: 10px;
-            border: 1rem solid goldenrod;
+            border: 1rem solid red;
             padding: 1.5rem;
             display: flex;
             align-items: center;

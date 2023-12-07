@@ -39,6 +39,12 @@ section {
     color: red;
 }
 
+.header-bottom {
+    background: #fff;
+    width: 100%;
+    height: 100px;
+}
+
 .btn{
     display: inline-block;
     margin-top: 1rem;
@@ -201,8 +207,8 @@ header .fa-bars {
     flex-wrap: wrap;
     gap: 1.5rem;
     padding-top: 3rem;
-    padding-bottom: 3rem;
-    margin-bottom: 40px;
+    /* padding-bottom: 3rem; */
+    /* margin-bottom: 40px; */
 }
 
 .icons-container .icons {
@@ -519,3 +525,124 @@ header .fa-bars {
 .footer .credit span {
     color: red;
 }
+
+.sp1 {
+    width: 100%;
+    /* height: auto; */
+}
+
+.single-pro-images {
+    width: 38%;
+}
+
+.single-pro-details {
+    width: 58%;
+    padding-top: 4rem;
+}
+
+.single-pro-details h1 {
+    font-size: 15px;
+    margin-bottom: 30px;
+}
+
+.single-pro-details h2 {
+    font-size: 25px;
+    margin-bottom: 30px;
+}
+
+.single-pro-details h3 {
+    font-size: 20px;
+    margin-bottom: 30px;
+}
+
+.single-pro-details select {
+    padding: 1rem;
+    border: 0.3rem solid black;
+    border-radius: 20px;
+}
+
+.products-details {
+    display: flex;
+}
+
+.single-pro-details input {
+    padding: 1rem;
+    border: 0.3rem solid black;
+    border-radius: 20px;
+    margin-left: 10px;
+    width: 50px;
+    margin-top: 10px;
+}
+
+.single-pro-details button {
+    padding: 1rem;
+    border: 0.3rem solid red;
+    border-radius: 20px;
+    margin-left: 10px;
+    color: red;
+    margin-top: 10px;
+}
+
+.single-pro-details h4 {
+    font-size: 25px;
+    margin-bottom: 20px;
+}
+
+.single-pro-details span {
+    font-size: 15px;
+    margin-bottom: 20px;
+}
+
+/* #cart table {
+    width: 100%;
+    border-collapse: collapse;
+    table-layout: fixed;
+    white-space: nowrap;
+}
+
+#cart table img {
+    width: 70px;
+}
+
+.cartTab .listCart .item img {
+    width: 100%;
+}
+
+.cartTab .listCart .item {
+    display: grid;
+    grid-template-columns: 100px 200px 200px 200px;
+}
+
+.cartTab .listCart .item {
+    text-align: center;
+    justify-content: center;
+    gap: 20px;
+    text-align: center;
+    align-items: center;
+}
+
+.cartTab .listCart .item .quantity{
+    font-size: 15px;
+    /* padding-top: 30px; 
+}
+
+.cartTab .listCart .item .totalPrice{
+    font-size: 20px;
+    padding-top: 30px;
+}
+
+.cartTab .listCart .item .name {
+    font-size: 20px;
+    padding-top: 30px;
+}
+
+.listCart .quantity span {
+    display: inline-block;
+    width: 25px;
+    height: 25px;
+    background-color: black;
+    color: #fff;
+    border-radius: 50%;
+    cursor: pointer;
+}
+ */

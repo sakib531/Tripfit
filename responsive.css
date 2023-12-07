@@ -248,4 +248,31 @@
             height: 200px;
         }
 
+        .products-details {
+            display: flex;
+            flex-direction: column;
+        }
+
+        .single-pro-images {
+            width: 100%;
+        }
+        
+        .single-pro-details {
+            width: 100%;
+            padding-top: 4rem;
+        }
+
+        .single-pro-details select {
+            margin-left: 10px;
+            margin-top: 10px;
+        }
+
+        .single-pro-details input {
+            margin-top: 10px;
+        }
+        
+        .single-pro-details button {
+            margin-top: 10px;
+        }
+
 }

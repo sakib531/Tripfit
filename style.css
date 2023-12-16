@@ -593,56 +593,9 @@ header .fa-bars {
     margin-bottom: 20px;
 }
 
-/* #cart table {
+/*  cart start  */
+.header-bottom {
     width: 100%;
-    border-collapse: collapse;
-    table-layout: fixed;
-    white-space: nowrap;
+    height: 40px;
 }
-
-#cart table img {
-    width: 70px;
-}
-
-.cartTab .listCart .item img {
-    width: 100%;
-}
-
-.cartTab .listCart .item {
-    display: grid;
-    grid-template-columns: 100px 200px 200px 200px;
-}
-
-.cartTab .listCart .item {
-    text-align: center;
-    justify-content: center;
-    gap: 20px;
-    text-align: center;
-    align-items: center;
-}
-
-.cartTab .listCart .item .quantity{
-    font-size: 15px;
-    /* padding-top: 30px; 
-}
-
-.cartTab .listCart .item .totalPrice{
-    font-size: 20px;
-    padding-top: 30px;
-}
-
-.cartTab .listCart .item .name {
-    font-size: 20px;
-    padding-top: 30px;
-}
-
-.listCart .quantity span {
-    display: inline-block;
-    width: 25px;
-    height: 25px;
-    background-color: black;
-    color: #fff;
-    border-radius: 50%;
-    cursor: pointer;
-}
- */
+/*  cart end  */
